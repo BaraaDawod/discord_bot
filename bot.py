@@ -69,4 +69,4 @@ async def unban(ctx, *, member):
 	member_name, member_number = member.split('#')
 
 
-client.run('NzU1NTg2NjkzMjgwNTYzMjMx.X2Fc8Q.Zq3irNCjXvZUkoKc73uwyzgRIUU')
+client.run('nonono we changed the token and u shouldnt be seeing this :(')
